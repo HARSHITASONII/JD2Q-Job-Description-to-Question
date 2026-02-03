@@ -69,7 +69,7 @@ The UI follows a strict **"Intel-Terminal"** philosophy:
 
 1.  **Initialize Directory**:
     ```bash
-    git clone https://github.com/AshishGolchha/JD2Q-Job-Description-to-Questions.git
+    git clone https://github.com/HARSHITASONII/JD2Q-Job-Description-to-Question.git
     ```
 
 2.  **Secret Allocation**:
